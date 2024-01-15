@@ -24,7 +24,7 @@
 
 ### Language and Tools
 
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=soul-a&show_icons=true&theme=dark)
+<!---  ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=soul-a&show_icons=true&theme=dark) --->
 
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
